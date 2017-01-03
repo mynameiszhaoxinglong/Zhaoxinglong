@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					00A76C481DB7121F001508D1 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 8RJJW6PY7D;
 						ProvisioningStyle = Automatic;
 					};
 					00A76C611DB7121F001508D1 = {
@@ -422,7 +423,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 8RJJW6PY7D;
 				INFOPLIST_FILE = fopenCC/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.ZhaoJiaJun.fopenCC;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -433,7 +436,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 8RJJW6PY7D;
 				INFOPLIST_FILE = fopenCC/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.ZhaoJiaJun.fopenCC;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -505,6 +510,7 @@
 				00A76C781DB7121F001508D1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		00A76C791DB7121F001508D1 /* Build configuration list for PBXNativeTarget "fopenCCTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +519,7 @@
 				00A76C7B1DB7121F001508D1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		00A76C7C1DB7121F001508D1 /* Build configuration list for PBXNativeTarget "fopenCCUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +528,7 @@
 				00A76C7E1DB7121F001508D1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
